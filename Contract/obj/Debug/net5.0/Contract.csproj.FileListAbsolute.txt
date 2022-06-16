@@ -1,0 +1,15 @@
+D:\courses\web api mozakra\CompanyEmployees\Contract\bin\Debug\net5.0\Contract.deps.json
+D:\courses\web api mozakra\CompanyEmployees\Contract\bin\Debug\net5.0\Contract.dll
+D:\courses\web api mozakra\CompanyEmployees\Contract\bin\Debug\net5.0\ref\Contract.dll
+D:\courses\web api mozakra\CompanyEmployees\Contract\bin\Debug\net5.0\Contract.pdb
+D:\courses\web api mozakra\CompanyEmployees\Contract\obj\Debug\net5.0\Contract.csproj.AssemblyReference.cache
+D:\courses\web api mozakra\CompanyEmployees\Contract\obj\Debug\net5.0\Contract.GeneratedMSBuildEditorConfig.editorconfig
+D:\courses\web api mozakra\CompanyEmployees\Contract\obj\Debug\net5.0\Contract.AssemblyInfoInputs.cache
+D:\courses\web api mozakra\CompanyEmployees\Contract\obj\Debug\net5.0\Contract.AssemblyInfo.cs
+D:\courses\web api mozakra\CompanyEmployees\Contract\obj\Debug\net5.0\Contract.csproj.CoreCompileInputs.cache
+D:\courses\web api mozakra\CompanyEmployees\Contract\obj\Debug\net5.0\Contract.dll
+D:\courses\web api mozakra\CompanyEmployees\Contract\obj\Debug\net5.0\ref\Contract.dll
+D:\courses\web api mozakra\CompanyEmployees\Contract\obj\Debug\net5.0\Contract.pdb
+D:\courses\web api mozakra\CompanyEmployees\Contract\bin\Debug\net5.0\Entities.dll
+D:\courses\web api mozakra\CompanyEmployees\Contract\bin\Debug\net5.0\Entities.pdb
+D:\courses\web api mozakra\CompanyEmployees\Contract\obj\Debug\net5.0\Contract.csproj.CopyComplete
