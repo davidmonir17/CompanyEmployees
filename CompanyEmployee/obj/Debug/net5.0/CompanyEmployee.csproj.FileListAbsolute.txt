@@ -74,4 +74,3 @@ D:\courses\web api mozakra\CompanyEmployees\CompanyEmployee\bin\Debug\net5.0\Mic
 D:\courses\web api mozakra\CompanyEmployees\CompanyEmployee\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
 D:\courses\web api mozakra\CompanyEmployees\CompanyEmployee\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
 D:\courses\web api mozakra\CompanyEmployees\CompanyEmployee\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
-D:\courses\web api mozakra\CompanyEmployees\CompanyEmployee\obj\Debug\net5.0\CompanyEmployee.csproj.CopyComplete

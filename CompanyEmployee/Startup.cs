@@ -1,3 +1,4 @@
+using CompanyEmployee.ActionFilters;
 using CompanyEmployee.Extensions;
 using Contract;
 using Microsoft.AspNetCore.Builder;
@@ -32,6 +33,9 @@ namespace CompanyEmployee
             {
                 options.SuppressModelStateInvalidFilter = true;
             });
+            services.AddScoped<ValidationFilterAttribute>();
+            services.AddScoped<ValidateCompanyExistsAttribute>();
+            //services.AddScoped<ControllerFilterExample>();
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
