@@ -1,6 +1,7 @@
 using CompanyEmployee.ActionFilters;
 using CompanyEmployee.Extensions;
 using Contract;
+using Entities.DataTransferObjects;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
@@ -8,6 +9,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Models;
+using Repository.DataShaping;
 
 namespace CompanyEmployee
 {
@@ -35,6 +37,8 @@ namespace CompanyEmployee
             });
             services.AddScoped<ValidationFilterAttribute>();
             services.AddScoped<ValidateCompanyExistsAttribute>();
+            services.AddScoped<IDataShaper<EmployeeDto>, DataShaper<EmployeeDto>>();
+
             //services.AddScoped<ControllerFilterExample>();
             services.AddControllers();
             services.AddSwaggerGen(c =>

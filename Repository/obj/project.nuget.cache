@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "+NJN/A1sgS1+yfxZOcuTqIjWx782ndzsJNmSlsuweDf/QYXU4qiV8y1Fvg/ypWQCQMcRDU8MelMdn0Um0I2rng==",
+  "dgSpecHash": "q/dHbNcTvf1QkPqFKXYBjgNWyfK2GSLLTfExrHDpTHRqoplOapsK9T1gWtSpfiQVdFZRw1HmgLFgtjFP2lf/DA==",
   "success": true,
   "projectFilePath": "D:\\courses\\web api mozakra\\CompanyEmployees\\Repository\\Repository.csproj",
   "expectedPackageFiles": [
@@ -56,6 +56,7 @@
     "C:\\Users\\DavidF\\.nuget\\packages\\system.io.filesystem\\4.3.0\\system.io.filesystem.4.3.0.nupkg.sha512",
     "C:\\Users\\DavidF\\.nuget\\packages\\system.io.filesystem.primitives\\4.3.0\\system.io.filesystem.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\DavidF\\.nuget\\packages\\system.linq\\4.3.0\\system.linq.4.3.0.nupkg.sha512",
+    "C:\\Users\\DavidF\\.nuget\\packages\\system.linq.dynamic.core\\1.2.18\\system.linq.dynamic.core.1.2.18.nupkg.sha512",
     "C:\\Users\\DavidF\\.nuget\\packages\\system.linq.expressions\\4.3.0\\system.linq.expressions.4.3.0.nupkg.sha512",
     "C:\\Users\\DavidF\\.nuget\\packages\\system.net.nameresolution\\4.3.0\\system.net.nameresolution.4.3.0.nupkg.sha512",
     "C:\\Users\\DavidF\\.nuget\\packages\\system.net.primitives\\4.3.0\\system.net.primitives.4.3.0.nupkg.sha512",
