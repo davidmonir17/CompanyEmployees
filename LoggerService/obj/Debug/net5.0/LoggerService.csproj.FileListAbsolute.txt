@@ -18,3 +18,23 @@ D:\courses\web api mozakra\CompanyEmployees\LoggerService\bin\Debug\net5.0\Contr
 D:\courses\web api mozakra\CompanyEmployees\LoggerService\obj\Debug\net5.0\LoggerService.csproj.CopyComplete
 D:\courses\web api mozakra\CompanyEmployees\LoggerService\bin\Debug\net5.0\Entities.dll
 D:\courses\web api mozakra\CompanyEmployees\LoggerService\bin\Debug\net5.0\Entities.pdb
+C:\Users\david\Source\Repos\CompanyEmployees\LoggerService\bin\Debug\net5.0\LoggerService.deps.json
+C:\Users\david\Source\Repos\CompanyEmployees\LoggerService\bin\Debug\net5.0\LoggerService.runtimeconfig.json
+C:\Users\david\Source\Repos\CompanyEmployees\LoggerService\bin\Debug\net5.0\LoggerService.runtimeconfig.dev.json
+C:\Users\david\Source\Repos\CompanyEmployees\LoggerService\bin\Debug\net5.0\LoggerService.dll
+C:\Users\david\Source\Repos\CompanyEmployees\LoggerService\bin\Debug\net5.0\LoggerService.pdb
+C:\Users\david\Source\Repos\CompanyEmployees\LoggerService\bin\Debug\net5.0\Contract.dll
+C:\Users\david\Source\Repos\CompanyEmployees\LoggerService\bin\Debug\net5.0\Entities.dll
+C:\Users\david\Source\Repos\CompanyEmployees\LoggerService\bin\Debug\net5.0\Contract.pdb
+C:\Users\david\Source\Repos\CompanyEmployees\LoggerService\bin\Debug\net5.0\Entities.pdb
+C:\Users\david\Source\Repos\CompanyEmployees\LoggerService\obj\Debug\net5.0\LoggerService.csproj.AssemblyReference.cache
+C:\Users\david\Source\Repos\CompanyEmployees\LoggerService\obj\Debug\net5.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Source\Repos\CompanyEmployees\LoggerService\obj\Debug\net5.0\LoggerService.AssemblyInfoInputs.cache
+C:\Users\david\Source\Repos\CompanyEmployees\LoggerService\obj\Debug\net5.0\LoggerService.AssemblyInfo.cs
+C:\Users\david\Source\Repos\CompanyEmployees\LoggerService\obj\Debug\net5.0\LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\david\Source\Repos\CompanyEmployees\LoggerService\obj\Debug\net5.0\LoggerService.csproj.CopyComplete
+C:\Users\david\Source\Repos\CompanyEmployees\LoggerService\obj\Debug\net5.0\LoggerService.dll
+C:\Users\david\Source\Repos\CompanyEmployees\LoggerService\obj\Debug\net5.0\refint\LoggerService.dll
+C:\Users\david\Source\Repos\CompanyEmployees\LoggerService\obj\Debug\net5.0\LoggerService.pdb
+C:\Users\david\Source\Repos\CompanyEmployees\LoggerService\obj\Debug\net5.0\LoggerService.genruntimeconfig.cache
+C:\Users\david\Source\Repos\CompanyEmployees\LoggerService\obj\Debug\net5.0\ref\LoggerService.dll

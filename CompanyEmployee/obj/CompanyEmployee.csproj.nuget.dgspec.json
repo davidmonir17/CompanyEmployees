@@ -1,27 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "D:\\courses\\web api mozakra\\CompanyEmployees\\CompanyEmployee\\CompanyEmployee.csproj": {}
+    "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\CompanyEmployee\\CompanyEmployee.csproj": {}
   },
   "projects": {
-    "D:\\courses\\web api mozakra\\CompanyEmployees\\CompanyEmployee\\CompanyEmployee.csproj": {
+    "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\CompanyEmployee\\CompanyEmployee.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\courses\\web api mozakra\\CompanyEmployees\\CompanyEmployee\\CompanyEmployee.csproj",
+        "projectUniqueName": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\CompanyEmployee\\CompanyEmployee.csproj",
         "projectName": "CompanyEmployee",
-        "projectPath": "D:\\courses\\web api mozakra\\CompanyEmployees\\CompanyEmployee\\CompanyEmployee.csproj",
-        "packagesPath": "C:\\Users\\DavidF\\.nuget\\packages\\",
-        "outputPath": "D:\\courses\\web api mozakra\\CompanyEmployees\\CompanyEmployee\\obj\\",
+        "projectPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\CompanyEmployee\\CompanyEmployee.csproj",
+        "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\CompanyEmployee\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\DavidF\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -34,14 +28,14 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\courses\\web api mozakra\\CompanyEmployees\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\courses\\web api mozakra\\CompanyEmployees\\Entities\\Entities.csproj"
+              "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Entities\\Entities.csproj"
               },
-              "D:\\courses\\web api mozakra\\CompanyEmployees\\LoggerService\\LoggerService.csproj": {
-                "projectPath": "D:\\courses\\web api mozakra\\CompanyEmployees\\LoggerService\\LoggerService.csproj"
+              "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\LoggerService\\LoggerService.csproj": {
+                "projectPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\LoggerService\\LoggerService.csproj"
               },
-              "D:\\courses\\web api mozakra\\CompanyEmployees\\Repository\\Repository.csproj": {
-                "projectPath": "D:\\courses\\web api mozakra\\CompanyEmployees\\Repository\\Repository.csproj"
+              "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Repository\\Repository.csproj"
               }
             }
           }
@@ -63,6 +57,10 @@
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
               "version": "[11.0.0, )"
+            },
+            "Marvin.Cache.Headers": {
+              "target": "Package",
+              "version": "[4.1.0, )"
             },
             "Microsoft.AspNetCore.Mvc.Versioning": {
               "target": "Package",
@@ -111,28 +109,22 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\courses\\web api mozakra\\CompanyEmployees\\Contract\\Contract.csproj": {
+    "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Contract\\Contract.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\courses\\web api mozakra\\CompanyEmployees\\Contract\\Contract.csproj",
+        "projectUniqueName": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Contract\\Contract.csproj",
         "projectName": "Contract",
-        "projectPath": "D:\\courses\\web api mozakra\\CompanyEmployees\\Contract\\Contract.csproj",
-        "packagesPath": "C:\\Users\\DavidF\\.nuget\\packages\\",
-        "outputPath": "D:\\courses\\web api mozakra\\CompanyEmployees\\Contract\\obj\\",
+        "projectPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Contract\\Contract.csproj",
+        "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Contract\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\DavidF\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -145,8 +137,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\courses\\web api mozakra\\CompanyEmployees\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\courses\\web api mozakra\\CompanyEmployees\\Entities\\Entities.csproj"
+              "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Entities\\Entities.csproj"
               }
             }
           }
@@ -175,28 +167,22 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\courses\\web api mozakra\\CompanyEmployees\\Entities\\Entities.csproj": {
+    "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\courses\\web api mozakra\\CompanyEmployees\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "D:\\courses\\web api mozakra\\CompanyEmployees\\Entities\\Entities.csproj",
-        "packagesPath": "C:\\Users\\DavidF\\.nuget\\packages\\",
-        "outputPath": "D:\\courses\\web api mozakra\\CompanyEmployees\\Entities\\obj\\",
+        "projectPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Entities\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\DavidF\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -257,28 +243,22 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\courses\\web api mozakra\\CompanyEmployees\\LoggerService\\LoggerService.csproj": {
+    "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\LoggerService\\LoggerService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\courses\\web api mozakra\\CompanyEmployees\\LoggerService\\LoggerService.csproj",
+        "projectUniqueName": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\LoggerService\\LoggerService.csproj",
         "projectName": "LoggerService",
-        "projectPath": "D:\\courses\\web api mozakra\\CompanyEmployees\\LoggerService\\LoggerService.csproj",
-        "packagesPath": "C:\\Users\\DavidF\\.nuget\\packages\\",
-        "outputPath": "D:\\courses\\web api mozakra\\CompanyEmployees\\LoggerService\\obj\\",
+        "projectPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\LoggerService\\LoggerService.csproj",
+        "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\LoggerService\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\DavidF\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -291,8 +271,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\courses\\web api mozakra\\CompanyEmployees\\Contract\\Contract.csproj": {
-                "projectPath": "D:\\courses\\web api mozakra\\CompanyEmployees\\Contract\\Contract.csproj"
+              "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Contract\\Contract.csproj": {
+                "projectPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Contract\\Contract.csproj"
               }
             }
           }
@@ -347,28 +327,22 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\courses\\web api mozakra\\CompanyEmployees\\Repository\\Repository.csproj": {
+    "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\courses\\web api mozakra\\CompanyEmployees\\Repository\\Repository.csproj",
+        "projectUniqueName": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "D:\\courses\\web api mozakra\\CompanyEmployees\\Repository\\Repository.csproj",
-        "packagesPath": "C:\\Users\\DavidF\\.nuget\\packages\\",
-        "outputPath": "D:\\courses\\web api mozakra\\CompanyEmployees\\Repository\\obj\\",
+        "projectPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Repository\\Repository.csproj",
+        "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Repository\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\DavidF\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -381,11 +355,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\courses\\web api mozakra\\CompanyEmployees\\Contract\\Contract.csproj": {
-                "projectPath": "D:\\courses\\web api mozakra\\CompanyEmployees\\Contract\\Contract.csproj"
+              "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Contract\\Contract.csproj": {
+                "projectPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Contract\\Contract.csproj"
               },
-              "D:\\courses\\web api mozakra\\CompanyEmployees\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\courses\\web api mozakra\\CompanyEmployees\\Entities\\Entities.csproj"
+              "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Entities\\Entities.csproj"
               }
             }
           }
@@ -420,7 +394,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

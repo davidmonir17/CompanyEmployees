@@ -38,9 +38,18 @@ namespace CompanyEmployee
             services.AddScoped<ValidationFilterAttribute>();
             services.AddScoped<ValidateCompanyExistsAttribute>();
             services.AddScoped<IDataShaper<EmployeeDto>, DataShaper<EmployeeDto>>();
+            services.ConfigureResponseCaching();
+            services.ConfigureHttpCacheHeaders();
 
             //services.AddScoped<ControllerFilterExample>();
-            services.AddControllers();
+            services.AddControllers(config=>
+            {
+                config.CacheProfiles.Add("120SecondsDuration", new CacheProfile
+                {
+                    Duration = 120
+                });
+            }
+            );
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "CompanyEmployee", Version = "v1" });
@@ -58,6 +67,9 @@ namespace CompanyEmployee
             }
             app.ConfigureExceptionHandler(logger);
             app.UseHttpsRedirection();
+            app.UseResponseCaching();
+            app.UseHttpCacheHeaders();
+
 
             app.UseRouting();
 
