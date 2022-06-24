@@ -13,3 +13,18 @@ D:\courses\web api mozakra\CompanyEmployees\Entities\obj\Debug\net5.0\Entities.c
 D:\courses\web api mozakra\CompanyEmployees\Entities\bin\Debug\net5.0\Entities.runtimeconfig.json
 D:\courses\web api mozakra\CompanyEmployees\Entities\bin\Debug\net5.0\Entities.runtimeconfig.dev.json
 D:\courses\web api mozakra\CompanyEmployees\Entities\obj\Debug\net5.0\Entities.genruntimeconfig.cache
+C:\Users\david\source\repos\davidmonir17\CompanyEmployees\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\david\source\repos\davidmonir17\CompanyEmployees\Entities\bin\Debug\net5.0\Entities.runtimeconfig.json
+C:\Users\david\source\repos\davidmonir17\CompanyEmployees\Entities\bin\Debug\net5.0\Entities.runtimeconfig.dev.json
+C:\Users\david\source\repos\davidmonir17\CompanyEmployees\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\david\source\repos\davidmonir17\CompanyEmployees\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\david\source\repos\davidmonir17\CompanyEmployees\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\davidmonir17\CompanyEmployees\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\davidmonir17\CompanyEmployees\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\davidmonir17\CompanyEmployees\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\david\source\repos\davidmonir17\CompanyEmployees\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\davidmonir17\CompanyEmployees\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\david\source\repos\davidmonir17\CompanyEmployees\Entities\obj\Debug\net5.0\refint\Entities.dll
+C:\Users\david\source\repos\davidmonir17\CompanyEmployees\Entities\obj\Debug\net5.0\Entities.pdb
+C:\Users\david\source\repos\davidmonir17\CompanyEmployees\Entities\obj\Debug\net5.0\Entities.genruntimeconfig.cache
+C:\Users\david\source\repos\davidmonir17\CompanyEmployees\Entities\obj\Debug\net5.0\ref\Entities.dll

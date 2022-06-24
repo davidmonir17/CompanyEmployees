@@ -15,6 +15,8 @@ namespace CompanyEmployee.AutoMapper
             CreateMap<EmployeeForUpdateDto, Employee>();
             CreateMap<Employee, EmployeeForUpdateDto>();
             CreateMap<CompanyForUpdateDto, Company>();
+            CreateMap<UserForRegistrationDto, User>();
+
         }
     }
 }

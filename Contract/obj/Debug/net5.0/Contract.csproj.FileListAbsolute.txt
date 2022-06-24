@@ -13,3 +13,18 @@ D:\courses\web api mozakra\CompanyEmployees\Contract\obj\Debug\net5.0\Contract.p
 D:\courses\web api mozakra\CompanyEmployees\Contract\bin\Debug\net5.0\Entities.dll
 D:\courses\web api mozakra\CompanyEmployees\Contract\bin\Debug\net5.0\Entities.pdb
 D:\courses\web api mozakra\CompanyEmployees\Contract\obj\Debug\net5.0\Contract.csproj.CopyComplete
+C:\Users\david\source\repos\davidmonir17\CompanyEmployees\Contract\bin\Debug\net5.0\Contract.deps.json
+C:\Users\david\source\repos\davidmonir17\CompanyEmployees\Contract\bin\Debug\net5.0\Contract.dll
+C:\Users\david\source\repos\davidmonir17\CompanyEmployees\Contract\bin\Debug\net5.0\Contract.pdb
+C:\Users\david\source\repos\davidmonir17\CompanyEmployees\Contract\bin\Debug\net5.0\Entities.dll
+C:\Users\david\source\repos\davidmonir17\CompanyEmployees\Contract\bin\Debug\net5.0\Entities.pdb
+C:\Users\david\source\repos\davidmonir17\CompanyEmployees\Contract\obj\Debug\net5.0\Contract.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\davidmonir17\CompanyEmployees\Contract\obj\Debug\net5.0\Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\davidmonir17\CompanyEmployees\Contract\obj\Debug\net5.0\Contract.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\davidmonir17\CompanyEmployees\Contract\obj\Debug\net5.0\Contract.AssemblyInfo.cs
+C:\Users\david\source\repos\davidmonir17\CompanyEmployees\Contract\obj\Debug\net5.0\Contract.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\davidmonir17\CompanyEmployees\Contract\obj\Debug\net5.0\Contract.csproj.CopyComplete
+C:\Users\david\source\repos\davidmonir17\CompanyEmployees\Contract\obj\Debug\net5.0\Contract.dll
+C:\Users\david\source\repos\davidmonir17\CompanyEmployees\Contract\obj\Debug\net5.0\refint\Contract.dll
+C:\Users\david\source\repos\davidmonir17\CompanyEmployees\Contract\obj\Debug\net5.0\Contract.pdb
+C:\Users\david\source\repos\davidmonir17\CompanyEmployees\Contract\obj\Debug\net5.0\ref\Contract.dll
