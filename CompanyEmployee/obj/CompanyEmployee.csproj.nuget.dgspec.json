@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\CompanyEmployee\\CompanyEmployee.csproj": {}
+    "C:\\Users\\david\\source\\repos\\CompanyEmployees\\CompanyEmployee\\CompanyEmployee.csproj": {}
   },
   "projects": {
-    "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\CompanyEmployee\\CompanyEmployee.csproj": {
+    "C:\\Users\\david\\source\\repos\\CompanyEmployees\\CompanyEmployee\\CompanyEmployee.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\CompanyEmployee\\CompanyEmployee.csproj",
+        "projectUniqueName": "C:\\Users\\david\\source\\repos\\CompanyEmployees\\CompanyEmployee\\CompanyEmployee.csproj",
         "projectName": "CompanyEmployee",
-        "projectPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\CompanyEmployee\\CompanyEmployee.csproj",
+        "projectPath": "C:\\Users\\david\\source\\repos\\CompanyEmployees\\CompanyEmployee\\CompanyEmployee.csproj",
         "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\CompanyEmployee\\obj\\",
+        "outputPath": "C:\\Users\\david\\source\\repos\\CompanyEmployees\\CompanyEmployee\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,14 +28,14 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Entities\\Entities.csproj"
+              "C:\\Users\\david\\source\\repos\\CompanyEmployees\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\david\\source\\repos\\CompanyEmployees\\Entities\\Entities.csproj"
               },
-              "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\LoggerService\\LoggerService.csproj": {
-                "projectPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\LoggerService\\LoggerService.csproj"
+              "C:\\Users\\david\\source\\repos\\CompanyEmployees\\LoggerService\\LoggerService.csproj": {
+                "projectPath": "C:\\Users\\david\\source\\repos\\CompanyEmployees\\LoggerService\\LoggerService.csproj"
               },
-              "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Repository\\Repository.csproj": {
-                "projectPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Repository\\Repository.csproj"
+              "C:\\Users\\david\\source\\repos\\CompanyEmployees\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Users\\david\\source\\repos\\CompanyEmployees\\Repository\\Repository.csproj"
               }
             }
           }
@@ -113,12 +113,12 @@
         }
       }
     },
-    "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Contract\\Contract.csproj": {
+    "C:\\Users\\david\\source\\repos\\CompanyEmployees\\Contract\\Contract.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Contract\\Contract.csproj",
+        "projectUniqueName": "C:\\Users\\david\\source\\repos\\CompanyEmployees\\Contract\\Contract.csproj",
         "projectName": "Contract",
-        "projectPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Contract\\Contract.csproj",
+        "projectPath": "C:\\Users\\david\\source\\repos\\CompanyEmployees\\Contract\\Contract.csproj",
         "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Contract\\obj\\",
         "projectStyle": "PackageReference",
@@ -137,8 +137,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Entities\\Entities.csproj"
+              "C:\\Users\\david\\source\\repos\\CompanyEmployees\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\david\\source\\repos\\CompanyEmployees\\Entities\\Entities.csproj"
               }
             }
           }
@@ -171,12 +171,12 @@
         }
       }
     },
-    "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Entities\\Entities.csproj": {
+    "C:\\Users\\david\\source\\repos\\CompanyEmployees\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\david\\source\\repos\\CompanyEmployees\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\david\\source\\repos\\CompanyEmployees\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Entities\\obj\\",
         "projectStyle": "PackageReference",
@@ -247,12 +247,12 @@
         }
       }
     },
-    "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\LoggerService\\LoggerService.csproj": {
+    "C:\\Users\\david\\source\\repos\\CompanyEmployees\\LoggerService\\LoggerService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\LoggerService\\LoggerService.csproj",
+        "projectUniqueName": "C:\\Users\\david\\source\\repos\\CompanyEmployees\\LoggerService\\LoggerService.csproj",
         "projectName": "LoggerService",
-        "projectPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\LoggerService\\LoggerService.csproj",
+        "projectPath": "C:\\Users\\david\\source\\repos\\CompanyEmployees\\LoggerService\\LoggerService.csproj",
         "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\LoggerService\\obj\\",
         "projectStyle": "PackageReference",
@@ -271,8 +271,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Contract\\Contract.csproj": {
-                "projectPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Contract\\Contract.csproj"
+              "C:\\Users\\david\\source\\repos\\CompanyEmployees\\Contract\\Contract.csproj": {
+                "projectPath": "C:\\Users\\david\\source\\repos\\CompanyEmployees\\Contract\\Contract.csproj"
               }
             }
           }
@@ -331,12 +331,12 @@
         }
       }
     },
-    "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Repository\\Repository.csproj": {
+    "C:\\Users\\david\\source\\repos\\CompanyEmployees\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Repository\\Repository.csproj",
+        "projectUniqueName": "C:\\Users\\david\\source\\repos\\CompanyEmployees\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Repository\\Repository.csproj",
+        "projectPath": "C:\\Users\\david\\source\\repos\\CompanyEmployees\\Repository\\Repository.csproj",
         "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Repository\\obj\\",
         "projectStyle": "PackageReference",
@@ -355,11 +355,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Contract\\Contract.csproj": {
-                "projectPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Contract\\Contract.csproj"
+              "C:\\Users\\david\\source\\repos\\CompanyEmployees\\Contract\\Contract.csproj": {
+                "projectPath": "C:\\Users\\david\\source\\repos\\CompanyEmployees\\Contract\\Contract.csproj"
               },
-              "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Entities\\Entities.csproj"
+              "C:\\Users\\david\\source\\repos\\CompanyEmployees\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\david\\source\\repos\\CompanyEmployees\\Entities\\Entities.csproj"
               }
             }
           }

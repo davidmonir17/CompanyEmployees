@@ -6570,11 +6570,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\CompanyEmployee\\CompanyEmployee.csproj",
+      "projectUniqueName": "C:\\Users\\david\\source\\repos\\CompanyEmployees\\CompanyEmployee\\CompanyEmployee.csproj",
       "projectName": "CompanyEmployee",
-      "projectPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\CompanyEmployee\\CompanyEmployee.csproj",
+      "projectPath": "C:\\Users\\david\\source\\repos\\CompanyEmployees\\CompanyEmployee\\CompanyEmployee.csproj",
       "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\CompanyEmployee\\obj\\",
+      "outputPath": "C:\\Users\\david\\source\\repos\\CompanyEmployees\\CompanyEmployee\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6591,14 +6591,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Entities\\Entities.csproj"
+            "C:\\Users\\david\\source\\repos\\CompanyEmployees\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\david\\source\\repos\\CompanyEmployees\\Entities\\Entities.csproj"
             },
-            "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\LoggerService\\LoggerService.csproj": {
-              "projectPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\LoggerService\\LoggerService.csproj"
+            "C:\\Users\\david\\source\\repos\\CompanyEmployees\\LoggerService\\LoggerService.csproj": {
+              "projectPath": "C:\\Users\\david\\source\\repos\\CompanyEmployees\\LoggerService\\LoggerService.csproj"
             },
-            "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Repository\\Repository.csproj": {
-              "projectPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Repository\\Repository.csproj"
+            "C:\\Users\\david\\source\\repos\\CompanyEmployees\\Repository\\Repository.csproj": {
+              "projectPath": "C:\\Users\\david\\source\\repos\\CompanyEmployees\\Repository\\Repository.csproj"
             }
           }
         }

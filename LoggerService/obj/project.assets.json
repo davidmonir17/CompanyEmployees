@@ -5924,9 +5924,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\LoggerService\\LoggerService.csproj",
+      "projectUniqueName": "C:\\Users\\david\\source\\repos\\CompanyEmployees\\LoggerService\\LoggerService.csproj",
       "projectName": "LoggerService",
-      "projectPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\LoggerService\\LoggerService.csproj",
+      "projectPath": "C:\\Users\\david\\source\\repos\\CompanyEmployees\\LoggerService\\LoggerService.csproj",
       "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\LoggerService\\obj\\",
       "projectStyle": "PackageReference",
@@ -5945,8 +5945,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Contract\\Contract.csproj": {
-              "projectPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Contract\\Contract.csproj"
+            "C:\\Users\\david\\source\\repos\\CompanyEmployees\\Contract\\Contract.csproj": {
+              "projectPath": "C:\\Users\\david\\source\\repos\\CompanyEmployees\\Contract\\Contract.csproj"
             }
           }
         }

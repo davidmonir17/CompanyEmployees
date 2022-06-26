@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eeo3Ty9XCAR18aFc2+YshLwJPDyHkwcnPndAB3ZyIj5PcE6f0pjeJLPtWTGvcY2kAJiBapVTmR4026Oa7MMSHw==",
+  "dgSpecHash": "EMi/jhVDTgzORjH2PyAu+bZin5XYwxOlyk2BLyIy2WYVWXHhHM+/qL0UpmFdO8w51jtNdjJPkGWp7tHqbQ/FWQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\LoggerService\\LoggerService.csproj",
+  "projectFilePath": "C:\\Users\\david\\source\\repos\\CompanyEmployees\\LoggerService\\LoggerService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\david\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\david\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
