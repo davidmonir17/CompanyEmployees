@@ -1,5 +1,7 @@
+using CompanyEmployee.ActionFilters;
 using CompanyEmployee.Extensions;
 using Contract;
+using Entities.DataTransferObjects;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
@@ -7,7 +9,11 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Models;
+<<<<<<< HEAD
 using Repository;
+=======
+using Repository.DataShaping;
+>>>>>>> 099fac8d0059a2fe90b51b9b0917db21569d500c
 
 namespace CompanyEmployee
 {
@@ -38,7 +44,21 @@ namespace CompanyEmployee
             {
                 options.SuppressModelStateInvalidFilter = true;
             });
-            services.AddControllers();
+            services.AddScoped<ValidationFilterAttribute>();
+            services.AddScoped<ValidateCompanyExistsAttribute>();
+            services.AddScoped<IDataShaper<EmployeeDto>, DataShaper<EmployeeDto>>();
+            services.ConfigureResponseCaching();
+            services.ConfigureHttpCacheHeaders();
+
+            //services.AddScoped<ControllerFilterExample>();
+            services.AddControllers(config=>
+            {
+                config.CacheProfiles.Add("120SecondsDuration", new CacheProfile
+                {
+                    Duration = 120
+                });
+            }
+            );
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "CompanyEmployee", Version = "v1" });
@@ -56,6 +76,9 @@ namespace CompanyEmployee
             }
             app.ConfigureExceptionHandler(logger);
             app.UseHttpsRedirection();
+            app.UseResponseCaching();
+            app.UseHttpCacheHeaders();
+
 
             app.UseRouting();
 

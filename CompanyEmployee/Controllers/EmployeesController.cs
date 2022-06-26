@@ -2,8 +2,10 @@
 using Contract;
 using Entities;
 using Entities.DataTransferObjects;
+using Entities.RequestFeatures;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -18,16 +20,18 @@ namespace CompanyEmployee.Controllers
         private readonly IRepositoryManager _repository;
         private readonly ILoggerManager _logger;
         private readonly IMapper _mapper;
+        private readonly IDataShaper<EmployeeDto> _dataShaper;
 
-        public EmployeesController(IRepositoryManager repository, ILoggerManager logger, IMapper mapper)
+        public EmployeesController(IRepositoryManager repository, ILoggerManager logger, IMapper mapper, IDataShaper<EmployeeDto> dataShaper)
         {
             _repository = repository;
             _logger = logger;
             _mapper = mapper;
+            _dataShaper = dataShaper;
         }
 
         [HttpGet]
-        public async Task<IActionResult> GetEmployeesForCompany(Guid companyId)
+        public async Task<IActionResult> GetEmployeesForCompany(Guid companyId, [FromQuery] EmployeeParameters employeeParameters)
         {
             var company = await _repository.Company.GetCompanyAsync(companyId, trackChanges: false);
             if (company == null)
@@ -35,15 +39,20 @@ namespace CompanyEmployee.Controllers
                 _logger.LogInfo($"Company with id: {companyId} doesn't exist in the  database.");
                 return NotFound();
             }
-            var employeesFromDb = await _repository.Employee.GetEmployeesAsync(companyId,
+            var employeesFromDb = await _repository.Employee.GetEmployeesAsync(companyId, employeeParameters,
                 trackChanges: false);
+            Response.Headers.Add("X-Pagination", JsonConvert.SerializeObject(employeesFromDb.MetaData));
             var EmpDto = _mapper.Map<IEnumerable<EmployeeDto>>(employeesFromDb);
-            return Ok(EmpDto);
+            return Ok(_dataShaper.ShapeData(EmpDto, employeeParameters.Fields));
+            //return Ok(EmpDto);
         }
 
         [HttpGet("{id}", Name = "GetEmployeeForCompany")]
-        public async Task<IActionResult> GetEmployeeForCompany(Guid companyId, Guid id)
+        public async Task<IActionResult> GetEmployeeForCompany(Guid companyId, EmployeeParameters employeeParameters, Guid id)
         {
+            if (!employeeParameters.ValidAgeRange)
+                return BadRequest("Max age can't be less than min age.");
+
             var company = await _repository.Company.GetCompanyAsync(companyId, trackChanges: false);
             if (company == null)
             {
@@ -57,6 +66,7 @@ namespace CompanyEmployee.Controllers
                 return NotFound();
             }
             var EmpDto = _mapper.Map<EmployeeDto>(employeesFromDb);
+
             return Ok(EmpDto);
         }
 

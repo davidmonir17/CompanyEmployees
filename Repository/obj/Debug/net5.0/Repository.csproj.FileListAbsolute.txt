@@ -15,6 +15,7 @@ D:\courses\web api mozakra\CompanyEmployees\Repository\obj\Debug\net5.0\Reposito
 D:\courses\web api mozakra\CompanyEmployees\Repository\obj\Debug\net5.0\ref\Repository.dll
 D:\courses\web api mozakra\CompanyEmployees\Repository\obj\Debug\net5.0\Repository.pdb
 D:\courses\web api mozakra\CompanyEmployees\Repository\obj\Debug\net5.0\Repository.csproj.CopyComplete
+<<<<<<< HEAD
 C:\Users\david\source\repos\davidmonir17\CompanyEmployees\Repository\bin\Debug\net5.0\Repository.deps.json
 C:\Users\david\source\repos\davidmonir17\CompanyEmployees\Repository\bin\Debug\net5.0\Repository.dll
 C:\Users\david\source\repos\davidmonir17\CompanyEmployees\Repository\bin\Debug\net5.0\Repository.pdb
@@ -32,3 +33,22 @@ C:\Users\david\source\repos\davidmonir17\CompanyEmployees\Repository\obj\Debug\n
 C:\Users\david\source\repos\davidmonir17\CompanyEmployees\Repository\obj\Debug\net5.0\refint\Repository.dll
 C:\Users\david\source\repos\davidmonir17\CompanyEmployees\Repository\obj\Debug\net5.0\Repository.pdb
 C:\Users\david\source\repos\davidmonir17\CompanyEmployees\Repository\obj\Debug\net5.0\ref\Repository.dll
+=======
+C:\Users\david\Source\Repos\CompanyEmployees\Repository\bin\Debug\net5.0\Repository.deps.json
+C:\Users\david\Source\Repos\CompanyEmployees\Repository\bin\Debug\net5.0\Repository.dll
+C:\Users\david\Source\Repos\CompanyEmployees\Repository\bin\Debug\net5.0\Repository.pdb
+C:\Users\david\Source\Repos\CompanyEmployees\Repository\bin\Debug\net5.0\Contract.dll
+C:\Users\david\Source\Repos\CompanyEmployees\Repository\bin\Debug\net5.0\Entities.dll
+C:\Users\david\Source\Repos\CompanyEmployees\Repository\bin\Debug\net5.0\Contract.pdb
+C:\Users\david\Source\Repos\CompanyEmployees\Repository\bin\Debug\net5.0\Entities.pdb
+C:\Users\david\Source\Repos\CompanyEmployees\Repository\obj\Debug\net5.0\Repository.csproj.AssemblyReference.cache
+C:\Users\david\Source\Repos\CompanyEmployees\Repository\obj\Debug\net5.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Source\Repos\CompanyEmployees\Repository\obj\Debug\net5.0\Repository.AssemblyInfoInputs.cache
+C:\Users\david\Source\Repos\CompanyEmployees\Repository\obj\Debug\net5.0\Repository.AssemblyInfo.cs
+C:\Users\david\Source\Repos\CompanyEmployees\Repository\obj\Debug\net5.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\david\Source\Repos\CompanyEmployees\Repository\obj\Debug\net5.0\Repository.csproj.CopyComplete
+C:\Users\david\Source\Repos\CompanyEmployees\Repository\obj\Debug\net5.0\Repository.dll
+C:\Users\david\Source\Repos\CompanyEmployees\Repository\obj\Debug\net5.0\refint\Repository.dll
+C:\Users\david\Source\Repos\CompanyEmployees\Repository\obj\Debug\net5.0\Repository.pdb
+C:\Users\david\Source\Repos\CompanyEmployees\Repository\obj\Debug\net5.0\ref\Repository.dll
+>>>>>>> 099fac8d0059a2fe90b51b9b0917db21569d500c

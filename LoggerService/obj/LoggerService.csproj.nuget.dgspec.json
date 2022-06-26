@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\david\\source\\repos\\davidmonir17\\CompanyEmployees\\LoggerService\\LoggerService.csproj": {}
+    "C:\\Users\\david\\source\\repos\\davidmonir17\\ds\\LoggerService\\LoggerService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\david\\source\\repos\\davidmonir17\\CompanyEmployees\\Contract\\Contract.csproj": {
+    "C:\\Users\\david\\source\\repos\\davidmonir17\\ds\\Contract\\Contract.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\david\\source\\repos\\davidmonir17\\CompanyEmployees\\Contract\\Contract.csproj",
+        "projectUniqueName": "C:\\Users\\david\\source\\repos\\davidmonir17\\ds\\Contract\\Contract.csproj",
         "projectName": "Contract",
-        "projectPath": "C:\\Users\\david\\source\\repos\\davidmonir17\\CompanyEmployees\\Contract\\Contract.csproj",
+        "projectPath": "C:\\Users\\david\\source\\repos\\davidmonir17\\ds\\Contract\\Contract.csproj",
         "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\david\\source\\repos\\davidmonir17\\CompanyEmployees\\Contract\\obj\\",
+        "outputPath": "C:\\Users\\david\\source\\repos\\davidmonir17\\ds\\Contract\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\david\\source\\repos\\davidmonir17\\CompanyEmployees\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\david\\source\\repos\\davidmonir17\\CompanyEmployees\\Entities\\Entities.csproj"
+              "C:\\Users\\david\\source\\repos\\davidmonir17\\ds\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\david\\source\\repos\\davidmonir17\\ds\\Entities\\Entities.csproj"
               }
             }
           }
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\david\\source\\repos\\davidmonir17\\CompanyEmployees\\Entities\\Entities.csproj": {
+    "C:\\Users\\david\\source\\repos\\davidmonir17\\ds\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\david\\source\\repos\\davidmonir17\\CompanyEmployees\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\david\\source\\repos\\davidmonir17\\ds\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\david\\source\\repos\\davidmonir17\\CompanyEmployees\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\david\\source\\repos\\davidmonir17\\ds\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\david\\source\\repos\\davidmonir17\\CompanyEmployees\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\david\\source\\repos\\davidmonir17\\ds\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -142,14 +142,14 @@
         }
       }
     },
-    "C:\\Users\\david\\source\\repos\\davidmonir17\\CompanyEmployees\\LoggerService\\LoggerService.csproj": {
+    "C:\\Users\\david\\source\\repos\\davidmonir17\\ds\\LoggerService\\LoggerService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\david\\source\\repos\\davidmonir17\\CompanyEmployees\\LoggerService\\LoggerService.csproj",
+        "projectUniqueName": "C:\\Users\\david\\source\\repos\\davidmonir17\\ds\\LoggerService\\LoggerService.csproj",
         "projectName": "LoggerService",
-        "projectPath": "C:\\Users\\david\\source\\repos\\davidmonir17\\CompanyEmployees\\LoggerService\\LoggerService.csproj",
+        "projectPath": "C:\\Users\\david\\source\\repos\\davidmonir17\\ds\\LoggerService\\LoggerService.csproj",
         "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\david\\source\\repos\\davidmonir17\\CompanyEmployees\\LoggerService\\obj\\",
+        "outputPath": "C:\\Users\\david\\source\\repos\\davidmonir17\\ds\\LoggerService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -166,8 +166,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\david\\source\\repos\\davidmonir17\\CompanyEmployees\\Contract\\Contract.csproj": {
-                "projectPath": "C:\\Users\\david\\source\\repos\\davidmonir17\\CompanyEmployees\\Contract\\Contract.csproj"
+              "C:\\Users\\david\\source\\repos\\davidmonir17\\ds\\Contract\\Contract.csproj": {
+                "projectPath": "C:\\Users\\david\\source\\repos\\davidmonir17\\ds\\Contract\\Contract.csproj"
               }
             }
           }

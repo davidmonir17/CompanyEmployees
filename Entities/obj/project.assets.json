@@ -5959,11 +5959,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\david\\source\\repos\\davidmonir17\\CompanyEmployees\\Entities\\Entities.csproj",
+      "projectUniqueName": "C:\\Users\\david\\source\\repos\\davidmonir17\\ds\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "C:\\Users\\david\\source\\repos\\davidmonir17\\CompanyEmployees\\Entities\\Entities.csproj",
+      "projectPath": "C:\\Users\\david\\source\\repos\\davidmonir17\\ds\\Entities\\Entities.csproj",
       "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\david\\source\\repos\\davidmonir17\\CompanyEmployees\\Entities\\obj\\",
+      "outputPath": "C:\\Users\\david\\source\\repos\\davidmonir17\\ds\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",

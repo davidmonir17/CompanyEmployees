@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8rsE1uYrttImg14VEWYOiCNQphpW4vTb+FJC9foYE8Xy21CdlPBBA65KEVIg07YmNeWRPwiheTPwya7575fh5g==",
+  "dgSpecHash": "/UGff/2027AuEbcjWn/KXOHLR/UbetQfWSPt4cNfzwc2AmV6Kgu2pKGJDYm7sIYHWneVsstN0U3QW7RCf2dlGA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\david\\source\\repos\\davidmonir17\\CompanyEmployees\\LoggerService\\LoggerService.csproj",
+  "projectFilePath": "C:\\Users\\david\\source\\repos\\davidmonir17\\ds\\LoggerService\\LoggerService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\david\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\david\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.16\\microsoft.aspnetcore.cryptography.internal.5.0.16.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GdIscq5Vk0R9utYrS9f/1lgLK8EJ5rsJsPWpHhVvu93yfSWvE6s4gv+AkJN6A/n3bTLHk0nPa07d3yekZx7Y8Q==",
+  "dgSpecHash": "We9eV5dzxV5T8xt8M6xH129C/MQPluY6OsSw1+iValsGv9dHz80mSm29rWFcVeU1XL7ZknLBRDQh10Y+lY0VpA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\david\\source\\repos\\davidmonir17\\CompanyEmployees\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\Users\\david\\source\\repos\\davidmonir17\\ds\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\david\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\david\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.16\\microsoft.aspnetcore.cryptography.internal.5.0.16.nupkg.sha512",
