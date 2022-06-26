@@ -37,6 +37,7 @@
         }
       },
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Microsoft.AspNetCore.Authentication.JwtBearer/5.0.16": {
         "type": "package",
         "dependencies": {
@@ -48,6 +49,8 @@
         "runtime": {
           "lib/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll": {}
 =======
+=======
+>>>>>>> 099fac8d0059a2fe90b51b9b0917db21569d500c
       "Marvin.Cache.Headers/4.1.0": {
         "type": "package",
         "dependencies": {
@@ -110,12 +113,16 @@
         },
         "runtime": {
           "lib/net5.0/Microsoft.AspNetCore.Mvc.Versioning.dll": {}
+<<<<<<< HEAD
+>>>>>>> 099fac8d0059a2fe90b51b9b0917db21569d500c
+=======
 >>>>>>> 099fac8d0059a2fe90b51b9b0917db21569d500c
         },
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
       },
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Microsoft.AspNetCore.Cryptography.Internal/5.0.16": {
         "type": "package",
@@ -150,6 +157,8 @@
         "runtime": {
           "lib/net5.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll": {}
 =======
+=======
+>>>>>>> 099fac8d0059a2fe90b51b9b0917db21569d500c
       "Microsoft.AspNetCore.Routing.Abstractions/2.2.0": {
         "type": "package",
         "dependencies": {
@@ -160,6 +169,9 @@
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.AspNetCore.Routing.Abstractions.dll": {}
+<<<<<<< HEAD
+>>>>>>> 099fac8d0059a2fe90b51b9b0917db21569d500c
+=======
 >>>>>>> 099fac8d0059a2fe90b51b9b0917db21569d500c
         }
       },
@@ -1069,7 +1081,10 @@
         }
       },
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 099fac8d0059a2fe90b51b9b0917db21569d500c
       "System.Linq.Dynamic.Core/1.2.18": {
         "type": "package",
         "compile": {
@@ -1599,6 +1614,15 @@
           "lib/netstandard2.0/System.Text.Encodings.Web.dll": {}
         }
       },
+      "System.Text.Encodings.Web/4.5.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/System.Text.Encodings.Web.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Text.Encodings.Web.dll": {}
+        }
+      },
       "System.Text.RegularExpressions/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -1873,6 +1897,7 @@
       ]
     },
 <<<<<<< HEAD
+<<<<<<< HEAD
     "Microsoft.AspNetCore.Authentication.JwtBearer/5.0.16": {
       "sha512": "NN/XE9uXABuZZQgDJSqiieZHD8QPL6GtcL6RAfqE0Tadzde7jdLpBlpYmZBSyBbOuMOHe26ulqKBP9UDVFU9vA==",
       "type": "package",
@@ -1942,6 +1967,8 @@
         "microsoft.aspnetcore.identity.entityframeworkcore.5.0.16.nupkg.sha512",
         "microsoft.aspnetcore.identity.entityframeworkcore.nuspec"
 =======
+=======
+>>>>>>> 099fac8d0059a2fe90b51b9b0917db21569d500c
     "Marvin.Cache.Headers/4.1.0": {
       "sha512": "ZzgPR+IDlGMOsBbD7WCSEUrG9rUbKO1rEEdx9YmC9/ZmhngHsB9UHajx2MszvFA5/+YpTBLO2fhWmvY27mCXcg==",
       "type": "package",
@@ -2023,6 +2050,9 @@
         "lib/netstandard2.0/Microsoft.AspNetCore.Routing.Abstractions.xml",
         "microsoft.aspnetcore.routing.abstractions.2.2.0.nupkg.sha512",
         "microsoft.aspnetcore.routing.abstractions.nuspec"
+<<<<<<< HEAD
+>>>>>>> 099fac8d0059a2fe90b51b9b0917db21569d500c
+=======
 >>>>>>> 099fac8d0059a2fe90b51b9b0917db21569d500c
       ]
     },
@@ -4118,7 +4148,10 @@
       ]
     },
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 099fac8d0059a2fe90b51b9b0917db21569d500c
     "System.Linq.Dynamic.Core/1.2.18": {
       "sha512": "+RH90sKD6SK2c9MD2Xo2jz1hkAJYfgPVyW1VgAwiPURR+JzOJCdvsDBg2Iq97FmTymxlQBY76G1cMxsF6j+6tA==",
       "type": "package",
@@ -6402,7 +6435,12 @@
       "Entities >= 1.0.0",
       "LoggerService >= 1.0.0",
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 5.0.16",
+=======
+      "Marvin.Cache.Headers >= 4.1.0",
+      "Microsoft.AspNetCore.Mvc.Versioning >= 5.0.0",
+>>>>>>> 099fac8d0059a2fe90b51b9b0917db21569d500c
 =======
       "Marvin.Cache.Headers >= 4.1.0",
       "Microsoft.AspNetCore.Mvc.Versioning >= 5.0.0",
@@ -6422,11 +6460,19 @@
     "version": "1.0.0",
     "restore": {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\david\\source\\repos\\davidmonir17\\CompanyEmployees\\CompanyEmployee\\CompanyEmployee.csproj",
       "projectName": "CompanyEmployee",
       "projectPath": "C:\\Users\\david\\source\\repos\\davidmonir17\\CompanyEmployees\\CompanyEmployee\\CompanyEmployee.csproj",
       "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\david\\source\\repos\\davidmonir17\\CompanyEmployees\\CompanyEmployee\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\CompanyEmployee\\CompanyEmployee.csproj",
+      "projectName": "CompanyEmployee",
+      "projectPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\CompanyEmployee\\CompanyEmployee.csproj",
+      "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\CompanyEmployee\\obj\\",
+>>>>>>> 099fac8d0059a2fe90b51b9b0917db21569d500c
 =======
       "projectUniqueName": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\CompanyEmployee\\CompanyEmployee.csproj",
       "projectName": "CompanyEmployee",
@@ -6451,6 +6497,7 @@
           "targetAlias": "net5.0",
           "projectReferences": {
 <<<<<<< HEAD
+<<<<<<< HEAD
             "C:\\Users\\david\\source\\repos\\davidmonir17\\CompanyEmployees\\Entities\\Entities.csproj": {
               "projectPath": "C:\\Users\\david\\source\\repos\\davidmonir17\\CompanyEmployees\\Entities\\Entities.csproj"
             },
@@ -6459,6 +6506,16 @@
             },
             "C:\\Users\\david\\source\\repos\\davidmonir17\\CompanyEmployees\\Repository\\Repository.csproj": {
               "projectPath": "C:\\Users\\david\\source\\repos\\davidmonir17\\CompanyEmployees\\Repository\\Repository.csproj"
+=======
+            "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Entities\\Entities.csproj"
+            },
+            "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\LoggerService\\LoggerService.csproj": {
+              "projectPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\LoggerService\\LoggerService.csproj"
+            },
+            "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Repository\\Repository.csproj": {
+              "projectPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Repository\\Repository.csproj"
+>>>>>>> 099fac8d0059a2fe90b51b9b0917db21569d500c
 =======
             "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Entities\\Entities.csproj": {
               "projectPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Entities\\Entities.csproj"
@@ -6492,10 +6549,13 @@
             "version": "[11.0.0, )"
           },
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Microsoft.AspNetCore.Authentication.JwtBearer": {
             "target": "Package",
             "version": "[5.0.16, )"
 =======
+=======
+>>>>>>> 099fac8d0059a2fe90b51b9b0917db21569d500c
           "Marvin.Cache.Headers": {
             "target": "Package",
             "version": "[4.1.0, )"
@@ -6503,6 +6563,9 @@
           "Microsoft.AspNetCore.Mvc.Versioning": {
             "target": "Package",
             "version": "[5.0.0, )"
+<<<<<<< HEAD
+>>>>>>> 099fac8d0059a2fe90b51b9b0917db21569d500c
+=======
 >>>>>>> 099fac8d0059a2fe90b51b9b0917db21569d500c
           },
           "Microsoft.EntityFrameworkCore": {

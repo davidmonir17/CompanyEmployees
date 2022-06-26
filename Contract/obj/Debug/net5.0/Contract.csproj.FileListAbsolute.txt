@@ -14,6 +14,7 @@ D:\courses\web api mozakra\CompanyEmployees\Contract\bin\Debug\net5.0\Entities.d
 D:\courses\web api mozakra\CompanyEmployees\Contract\bin\Debug\net5.0\Entities.pdb
 D:\courses\web api mozakra\CompanyEmployees\Contract\obj\Debug\net5.0\Contract.csproj.CopyComplete
 <<<<<<< HEAD
+<<<<<<< HEAD
 C:\Users\david\source\repos\davidmonir17\CompanyEmployees\Contract\bin\Debug\net5.0\Contract.deps.json
 C:\Users\david\source\repos\davidmonir17\CompanyEmployees\Contract\bin\Debug\net5.0\Contract.dll
 C:\Users\david\source\repos\davidmonir17\CompanyEmployees\Contract\bin\Debug\net5.0\Contract.pdb
@@ -30,6 +31,8 @@ C:\Users\david\source\repos\davidmonir17\CompanyEmployees\Contract\obj\Debug\net
 C:\Users\david\source\repos\davidmonir17\CompanyEmployees\Contract\obj\Debug\net5.0\Contract.pdb
 C:\Users\david\source\repos\davidmonir17\CompanyEmployees\Contract\obj\Debug\net5.0\ref\Contract.dll
 =======
+=======
+>>>>>>> 099fac8d0059a2fe90b51b9b0917db21569d500c
 C:\Users\david\Source\Repos\CompanyEmployees\Contract\bin\Debug\net5.0\Contract.deps.json
 C:\Users\david\Source\Repos\CompanyEmployees\Contract\bin\Debug\net5.0\Contract.dll
 C:\Users\david\Source\Repos\CompanyEmployees\Contract\bin\Debug\net5.0\Contract.pdb
@@ -45,4 +48,7 @@ C:\Users\david\Source\Repos\CompanyEmployees\Contract\obj\Debug\net5.0\Contract.
 C:\Users\david\Source\Repos\CompanyEmployees\Contract\obj\Debug\net5.0\refint\Contract.dll
 C:\Users\david\Source\Repos\CompanyEmployees\Contract\obj\Debug\net5.0\Contract.pdb
 C:\Users\david\Source\Repos\CompanyEmployees\Contract\obj\Debug\net5.0\ref\Contract.dll
+<<<<<<< HEAD
+>>>>>>> 099fac8d0059a2fe90b51b9b0917db21569d500c
+=======
 >>>>>>> 099fac8d0059a2fe90b51b9b0917db21569d500c

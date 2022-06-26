@@ -2,7 +2,11 @@
 using Entities;
 using LoggerService;
 <<<<<<< HEAD
+<<<<<<< HEAD
 using Microsoft.AspNetCore.Authentication.JwtBearer;
+=======
+using Marvin.Cache.Headers;
+>>>>>>> 099fac8d0059a2fe90b51b9b0917db21569d500c
 =======
 using Marvin.Cache.Headers;
 >>>>>>> 099fac8d0059a2fe90b51b9b0917db21569d500c
@@ -42,6 +46,7 @@ namespace CompanyEmployee.Extensions
 
         public static void ConfigureRepositoryManager(this IServiceCollection services) =>
          services.AddScoped<IRepositoryManager, RepositoryManager>();
+<<<<<<< HEAD
 <<<<<<< HEAD
         public static void ConfigureIdentity(this IServiceCollection services)
         {
@@ -83,6 +88,8 @@ namespace CompanyEmployee.Extensions
         }
 
 =======
+=======
+>>>>>>> 099fac8d0059a2fe90b51b9b0917db21569d500c
         public static void ConfigureResponseCaching(this IServiceCollection services) =>
         services.AddResponseCaching();
         public static void ConfigureHttpCacheHeaders(this IServiceCollection services) =>
@@ -95,6 +102,9 @@ services.AddHttpCacheHeaders(
     {
         validationOpt.MustRevalidate = true;
     });
+<<<<<<< HEAD
+>>>>>>> 099fac8d0059a2fe90b51b9b0917db21569d500c
+=======
 >>>>>>> 099fac8d0059a2fe90b51b9b0917db21569d500c
     }
 }

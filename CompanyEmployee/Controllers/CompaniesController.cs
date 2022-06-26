@@ -4,7 +4,11 @@ using Contract;
 using Entities;
 using Entities.DataTransferObjects;
 <<<<<<< HEAD
+<<<<<<< HEAD
 using Microsoft.AspNetCore.Authorization;
+=======
+using Marvin.Cache.Headers;
+>>>>>>> 099fac8d0059a2fe90b51b9b0917db21569d500c
 =======
 using Marvin.Cache.Headers;
 >>>>>>> 099fac8d0059a2fe90b51b9b0917db21569d500c

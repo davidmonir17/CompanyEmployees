@@ -2,6 +2,7 @@
   "format": 1,
   "restore": {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "C:\\Users\\david\\source\\repos\\davidmonir17\\CompanyEmployees\\CompanyEmployee\\CompanyEmployee.csproj": {}
   },
   "projects": {
@@ -13,6 +14,19 @@
         "projectPath": "C:\\Users\\david\\source\\repos\\davidmonir17\\CompanyEmployees\\CompanyEmployee\\CompanyEmployee.csproj",
         "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\david\\source\\repos\\davidmonir17\\CompanyEmployees\\CompanyEmployee\\obj\\",
+=======
+    "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\CompanyEmployee\\CompanyEmployee.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\CompanyEmployee\\CompanyEmployee.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\CompanyEmployee\\CompanyEmployee.csproj",
+        "projectName": "CompanyEmployee",
+        "projectPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\CompanyEmployee\\CompanyEmployee.csproj",
+        "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\CompanyEmployee\\obj\\",
+>>>>>>> 099fac8d0059a2fe90b51b9b0917db21569d500c
 =======
     "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\CompanyEmployee\\CompanyEmployee.csproj": {}
   },
@@ -43,6 +57,7 @@
             "targetAlias": "net5.0",
             "projectReferences": {
 <<<<<<< HEAD
+<<<<<<< HEAD
               "C:\\Users\\david\\source\\repos\\davidmonir17\\CompanyEmployees\\Entities\\Entities.csproj": {
                 "projectPath": "C:\\Users\\david\\source\\repos\\davidmonir17\\CompanyEmployees\\Entities\\Entities.csproj"
               },
@@ -51,6 +66,16 @@
               },
               "C:\\Users\\david\\source\\repos\\davidmonir17\\CompanyEmployees\\Repository\\Repository.csproj": {
                 "projectPath": "C:\\Users\\david\\source\\repos\\davidmonir17\\CompanyEmployees\\Repository\\Repository.csproj"
+=======
+              "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Entities\\Entities.csproj"
+              },
+              "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\LoggerService\\LoggerService.csproj": {
+                "projectPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\LoggerService\\LoggerService.csproj"
+              },
+              "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Repository\\Repository.csproj"
+>>>>>>> 099fac8d0059a2fe90b51b9b0917db21569d500c
 =======
               "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Entities\\Entities.csproj": {
                 "projectPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Entities\\Entities.csproj"
@@ -84,10 +109,13 @@
               "version": "[11.0.0, )"
             },
 <<<<<<< HEAD
+<<<<<<< HEAD
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
               "version": "[5.0.16, )"
 =======
+=======
+>>>>>>> 099fac8d0059a2fe90b51b9b0917db21569d500c
             "Marvin.Cache.Headers": {
               "target": "Package",
               "version": "[4.1.0, )"
@@ -95,6 +123,9 @@
             "Microsoft.AspNetCore.Mvc.Versioning": {
               "target": "Package",
               "version": "[5.0.0, )"
+<<<<<<< HEAD
+>>>>>>> 099fac8d0059a2fe90b51b9b0917db21569d500c
+=======
 >>>>>>> 099fac8d0059a2fe90b51b9b0917db21569d500c
             },
             "Microsoft.EntityFrameworkCore": {
@@ -145,6 +176,7 @@
       }
     },
 <<<<<<< HEAD
+<<<<<<< HEAD
     "C:\\Users\\david\\source\\repos\\davidmonir17\\CompanyEmployees\\Contract\\Contract.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -153,6 +185,16 @@
         "projectPath": "C:\\Users\\david\\source\\repos\\davidmonir17\\CompanyEmployees\\Contract\\Contract.csproj",
         "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\david\\source\\repos\\davidmonir17\\CompanyEmployees\\Contract\\obj\\",
+=======
+    "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Contract\\Contract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Contract\\Contract.csproj",
+        "projectName": "Contract",
+        "projectPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Contract\\Contract.csproj",
+        "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Contract\\obj\\",
+>>>>>>> 099fac8d0059a2fe90b51b9b0917db21569d500c
 =======
     "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Contract\\Contract.csproj": {
       "version": "1.0.0",
@@ -180,8 +222,13 @@
             "targetAlias": "net5.0",
             "projectReferences": {
 <<<<<<< HEAD
+<<<<<<< HEAD
               "C:\\Users\\david\\source\\repos\\davidmonir17\\CompanyEmployees\\Entities\\Entities.csproj": {
                 "projectPath": "C:\\Users\\david\\source\\repos\\davidmonir17\\CompanyEmployees\\Entities\\Entities.csproj"
+=======
+              "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Entities\\Entities.csproj"
+>>>>>>> 099fac8d0059a2fe90b51b9b0917db21569d500c
 =======
               "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Entities\\Entities.csproj": {
                 "projectPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Entities\\Entities.csproj"
@@ -219,6 +266,7 @@
       }
     },
 <<<<<<< HEAD
+<<<<<<< HEAD
     "C:\\Users\\david\\source\\repos\\davidmonir17\\CompanyEmployees\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -227,6 +275,16 @@
         "projectPath": "C:\\Users\\david\\source\\repos\\davidmonir17\\CompanyEmployees\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\david\\source\\repos\\davidmonir17\\CompanyEmployees\\Entities\\obj\\",
+=======
+    "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Entities\\Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Entities\\Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Entities\\obj\\",
+>>>>>>> 099fac8d0059a2fe90b51b9b0917db21569d500c
 =======
     "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Entities\\Entities.csproj": {
       "version": "1.0.0",
@@ -310,6 +368,7 @@
       }
     },
 <<<<<<< HEAD
+<<<<<<< HEAD
     "C:\\Users\\david\\source\\repos\\davidmonir17\\CompanyEmployees\\LoggerService\\LoggerService.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -318,6 +377,16 @@
         "projectPath": "C:\\Users\\david\\source\\repos\\davidmonir17\\CompanyEmployees\\LoggerService\\LoggerService.csproj",
         "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\david\\source\\repos\\davidmonir17\\CompanyEmployees\\LoggerService\\obj\\",
+=======
+    "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\LoggerService\\LoggerService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\LoggerService\\LoggerService.csproj",
+        "projectName": "LoggerService",
+        "projectPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\LoggerService\\LoggerService.csproj",
+        "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\LoggerService\\obj\\",
+>>>>>>> 099fac8d0059a2fe90b51b9b0917db21569d500c
 =======
     "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\LoggerService\\LoggerService.csproj": {
       "version": "1.0.0",
@@ -345,8 +414,13 @@
             "targetAlias": "net5.0",
             "projectReferences": {
 <<<<<<< HEAD
+<<<<<<< HEAD
               "C:\\Users\\david\\source\\repos\\davidmonir17\\CompanyEmployees\\Contract\\Contract.csproj": {
                 "projectPath": "C:\\Users\\david\\source\\repos\\davidmonir17\\CompanyEmployees\\Contract\\Contract.csproj"
+=======
+              "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Contract\\Contract.csproj": {
+                "projectPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Contract\\Contract.csproj"
+>>>>>>> 099fac8d0059a2fe90b51b9b0917db21569d500c
 =======
               "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Contract\\Contract.csproj": {
                 "projectPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Contract\\Contract.csproj"
@@ -410,6 +484,7 @@
       }
     },
 <<<<<<< HEAD
+<<<<<<< HEAD
     "C:\\Users\\david\\source\\repos\\davidmonir17\\CompanyEmployees\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -418,6 +493,16 @@
         "projectPath": "C:\\Users\\david\\source\\repos\\davidmonir17\\CompanyEmployees\\Repository\\Repository.csproj",
         "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\david\\source\\repos\\davidmonir17\\CompanyEmployees\\Repository\\obj\\",
+=======
+    "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Repository\\Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Repository\\Repository.csproj",
+        "projectName": "Repository",
+        "projectPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Repository\\Repository.csproj",
+        "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Repository\\obj\\",
+>>>>>>> 099fac8d0059a2fe90b51b9b0917db21569d500c
 =======
     "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Repository\\Repository.csproj": {
       "version": "1.0.0",
@@ -445,11 +530,19 @@
             "targetAlias": "net5.0",
             "projectReferences": {
 <<<<<<< HEAD
+<<<<<<< HEAD
               "C:\\Users\\david\\source\\repos\\davidmonir17\\CompanyEmployees\\Contract\\Contract.csproj": {
                 "projectPath": "C:\\Users\\david\\source\\repos\\davidmonir17\\CompanyEmployees\\Contract\\Contract.csproj"
               },
               "C:\\Users\\david\\source\\repos\\davidmonir17\\CompanyEmployees\\Entities\\Entities.csproj": {
                 "projectPath": "C:\\Users\\david\\source\\repos\\davidmonir17\\CompanyEmployees\\Entities\\Entities.csproj"
+=======
+              "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Contract\\Contract.csproj": {
+                "projectPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Contract\\Contract.csproj"
+              },
+              "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Entities\\Entities.csproj"
+>>>>>>> 099fac8d0059a2fe90b51b9b0917db21569d500c
 =======
               "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Contract\\Contract.csproj": {
                 "projectPath": "C:\\Users\\david\\Source\\Repos\\CompanyEmployees\\Contract\\Contract.csproj"

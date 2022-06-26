@@ -75,6 +75,7 @@ D:\courses\web api mozakra\CompanyEmployees\CompanyEmployee\bin\Debug\net5.0\Mic
 D:\courses\web api mozakra\CompanyEmployees\CompanyEmployee\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
 D:\courses\web api mozakra\CompanyEmployees\CompanyEmployee\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
 <<<<<<< HEAD
+<<<<<<< HEAD
 D:\courses\web api mozakra\CompanyEmployees\CompanyEmployee\obj\Debug\net5.0\CompanyEmployee.csproj.CopyComplete
 C:\Users\david\source\repos\davidmonir17\CompanyEmployees\CompanyEmployee\bin\Debug\net5.0\appsettings.Development.json
 C:\Users\david\source\repos\davidmonir17\CompanyEmployees\CompanyEmployee\bin\Debug\net5.0\appsettings.json
@@ -159,6 +160,8 @@ C:\Users\david\source\repos\davidmonir17\CompanyEmployees\CompanyEmployee\bin\De
 C:\Users\david\source\repos\davidmonir17\CompanyEmployees\CompanyEmployee\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\david\source\repos\davidmonir17\CompanyEmployees\CompanyEmployee\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 =======
+=======
+>>>>>>> 099fac8d0059a2fe90b51b9b0917db21569d500c
 D:\courses\web api mozakra\CompanyEmployees\CompanyEmployee\bin\Debug\net5.0\System.Linq.Dynamic.Core.dll
 C:\Users\david\Source\Repos\CompanyEmployees\CompanyEmployee\bin\Debug\net5.0\appsettings.Development.json
 C:\Users\david\Source\Repos\CompanyEmployees\CompanyEmployee\bin\Debug\net5.0\appsettings.json
@@ -240,4 +243,7 @@ C:\Users\david\Source\Repos\CompanyEmployees\CompanyEmployee\obj\Debug\net5.0\Co
 C:\Users\david\Source\Repos\CompanyEmployees\CompanyEmployee\obj\Debug\net5.0\CompanyEmployee.genruntimeconfig.cache
 C:\Users\david\Source\Repos\CompanyEmployees\CompanyEmployee\obj\Debug\net5.0\ref\CompanyEmployee.dll
 C:\Users\david\Source\Repos\CompanyEmployees\CompanyEmployee\bin\Debug\net5.0\Marvin.Cache.Headers.dll
+<<<<<<< HEAD
+>>>>>>> 099fac8d0059a2fe90b51b9b0917db21569d500c
+=======
 >>>>>>> 099fac8d0059a2fe90b51b9b0917db21569d500c
